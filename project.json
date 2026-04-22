@@ -1,0 +1,20 @@
+{
+  "overview": "AI Study Planner generates a personalized daily study schedule based on your subjects, difficulty levels, exam dates, and available study hours. It prioritizes harder subjects and those with nearer deadlines, giving you a balanced, actionable plan.",
+  "features": [
+    "Add subjects with name, difficulty (1-10), and exam date",
+    "Set available study hours per day",
+    "Generate a color-coded schedule (Red=High, Yellow=Medium, Green=Low priority)",
+    "Regenerate schedule with one click",
+    "Track progress with per-subject checkboxes",
+    "View total study hours summary"
+  ],
+  "category": "productivity",
+  "tags": [
+    "study",
+    "planning",
+    "schedule",
+    "productivity",
+    "education"
+  ],
+  "last_updated": "2026-04-22T12:18:29.035Z"
+}

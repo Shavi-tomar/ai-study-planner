@@ -1,0 +1,16 @@
+type SubjectInput = 
+ record {
+   difficulty: nat;
+   examDate: text;
+   name: text;
+ };
+type ScheduleItem = 
+ record {
+   hours: float64;
+   priority: text;
+   subject: text;
+ };
+service : {
+  generateSchedule: (subjects: vec SubjectInput, hoursPerDay: float64) ->
+   (vec ScheduleItem) query;
+}
