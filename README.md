@@ -1,2 +1,1 @@
-# ai-study-planner
-Exported from Caffeine project: AI Study Planner
+# ai-study-planner: AI Study Planner
